@@ -15,7 +15,7 @@ This project features a self-balancing robot using an Arduino Uno and a MPU6050 
 
 ## Diagrams
 - Robot Design: ![Robot](path_to_robot_image)
-- Flow Chart: ![Flow Chart](path_to_flow_chart_image)
+- Flow Chart: ![Flow Chart](images/self_balancing_robot_flowchart.png)
 - Q Table: ![Q Table](path_to_q_table_image)
 
 
